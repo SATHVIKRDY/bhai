@@ -1,0 +1,13 @@
+.para{
+    text-align: center;
+    color: red;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+#body{
+    background-image: url("delhi.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
